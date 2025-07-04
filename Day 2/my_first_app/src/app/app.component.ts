@@ -22,7 +22,7 @@ export class AppComponent {
 
   roles = ['Admin', 'Editor', 'Viewer'];
 
-  editingIndex: number | null = null; // ✅ Tracks which user is being edited
+  editingIndex: number | null = null; // Tracks which user is being edited
 
   onSubmit() {
     if (this.user.name && this.user.email && this.user.role) {
