@@ -1,0 +1,42 @@
+<div class="form-container">
+  <form (ngSubmit)="onSubmit()" #form="ngForm">
+    <label>Name:</label>
+    <input
+      type="text"
+      name="name"
+      required
+      [(ngModel)]="user.name"
+      [ngClass]="{ 'invalid': !user.name }"
+    />
+
+    <label>Email:</label>
+    <input
+      type="email"
+      name="email"
+      required
+      [(ngModel)]="user.email"
+      [ngClass]="{ 'invalid': !user.email }"
+    />
+
+    <label>Role:</label>
+    <select name="role" required [(ngModel)]="user.role">
+      <option *ngFor="let role of roles" [value]="role">{{ role }}</option>
+    </select>
+
+    <button type="submit">
+      {{ editingIndex === null ? 'Add User' : 'Update User' }}
+    </button>
+    <button type="button" (click)="resetForm()" *ngIf="editingIndex !== null">Cancel</button>
+  </form>
+
+  <div *ngIf="users.length > 0" class="user-list">
+    <h3>User List</h3>
+    <ul>
+      <li *ngFor="let u of users; let i = index">
+        {{ u.name }} ({{ u.email }}) - {{ u.role }}
+        <button (click)="editUser(i)">Edit</button>
+        <button (click)="deleteUser(i)">Delete</button>
+      </li>
+    </ul>
+  </div>
+</div>
