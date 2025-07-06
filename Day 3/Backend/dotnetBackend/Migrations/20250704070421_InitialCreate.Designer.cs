@@ -8,7 +8,7 @@ using dotnetBackend.Data;
 
 #nullable disable
 
-namespace dotnetBackend.Migrations
+namespace Backend.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     [Migration("20250704070421_InitialCreate")]

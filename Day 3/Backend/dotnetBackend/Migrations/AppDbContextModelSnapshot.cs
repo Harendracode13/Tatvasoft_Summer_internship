@@ -7,7 +7,7 @@ using dotnetBackend.Data;
 
 #nullable disable
 
-namespace dotnetBackend.Migrations
+namespace Backend.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
