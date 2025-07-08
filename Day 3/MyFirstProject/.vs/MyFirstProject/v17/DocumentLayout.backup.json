@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|d:\\tatvasoft_summer_internship\\day 3\\myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|d:\\tatvasoft_summer_internship\\day 3\\myfirstproject\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|d:\\tatvasoft_summer_internship\\day 3\\myfirstproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|d:\\tatvasoft_summer_internship\\day 3\\myfirstproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|d:\\tatvasoft_summer_internship\\day 3\\myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|d:\\tatvasoft_summer_internship\\day 3\\myfirstproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF434C78-6171-41E4-AB6E-C454619A0B21}|MyFirstProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -47,20 +47,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
               "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "Controllers\\StudentsController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAA5wFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T13:53:41.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -73,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
               "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T13:49:46.286Z",
               "EditorCaption": ""

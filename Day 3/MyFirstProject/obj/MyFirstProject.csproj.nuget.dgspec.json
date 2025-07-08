@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\MyFirstProject.csproj": {}
+    "D:\\Tatvasoft_Summer_internship\\Day 3\\myfirstproject\\MyFirstProject.csproj": {}
   },
   "projects": {
-    "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\MyFirstProject.csproj": {
+    "D:\\Tatvasoft_Summer_internship\\Day 3\\myfirstproject\\MyFirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\MyFirstProject.csproj",
+        "projectUniqueName": "D:\\Tatvasoft_Summer_internship\\Day 3\\myfirstproject\\MyFirstProject.csproj",
         "projectName": "MyFirstProject",
-        "projectPath": "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\MyFirstProject.csproj",
+        "projectPath": "D:\\Tatvasoft_Summer_internship\\Day 3\\myfirstproject\\MyFirstProject.csproj",
         "packagesPath": "C:\\Users\\Harendra\\.nuget\\packages\\",
         "outputPath": "D:\\Tatvasoft_Summer_internship\\Day 3\\MyFirstProject\\obj\\",
         "projectStyle": "PackageReference",
