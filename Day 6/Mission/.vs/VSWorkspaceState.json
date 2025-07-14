@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mission",
+    "\\Mission.Entities",
+    "\\Mission.Entities\\Models",
+    "\\Mission.Repositories",
+    "\\Mission.Repositories\\Helpers",
+    "\\Mission.Repositories\\IRepositories",
+    "\\Mission.Services",
+    "\\Mission.Services\\IServices",
+    "\\Mission.Services\\Services",
+    "\\Mission\\Controllers"
+  ],
+  "SelectedNode": "\\Mission.Services\\Services\\LoginService.cs",
+  "PreviewInSolutionExplorer": false
+}
