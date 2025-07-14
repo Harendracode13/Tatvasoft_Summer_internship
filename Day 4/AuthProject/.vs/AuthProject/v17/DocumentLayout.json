@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\.gitingnor||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:.gitingnor||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\authproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:authproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|d:\\tatvasoft_summer_internship\\day 4\\authproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900ABCF-8A4D-43F6-8F53-2A5541C88B99}|AuthProject.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitingnor",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\.gitingnor",
+              "RelativeDocumentMoniker": ".gitingnor",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\.gitingnor",
+              "RelativeToolTip": ".gitingnor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T08:16:04.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:55:35.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:31:16.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthProject.csproj",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\AuthProject.csproj",
+              "RelativeDocumentMoniker": "AuthProject.csproj",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\AuthProject.csproj",
+              "RelativeToolTip": "AuthProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T04:44:30.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T04:44:24.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T05:46:17.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:33:16.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:32:04.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:33:39.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Tatvasoft_Summer_internship\\Day 4\\AuthProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:30:56.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

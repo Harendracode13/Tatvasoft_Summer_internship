@@ -1,0 +1,24 @@
+<div class="form-container" [ngStyle]="{'border': submitted ? '2px solid green' : '1px solid gray'}">
+  <form (ngSubmit)="onSubmit()" *ngIf="!submitted">
+    <label>Name:</label>
+    <input type="text" [(ngModel)]="user.name" name="name" required [ngClass]="{'invalid': !user.name}" />
+
+    <label>Email:</label>
+    <input type="email" [(ngModel)]="user.email" name="email" required [ngClass]="{'invalid': !user.email}" />
+
+    <label>Role:</label>
+    <select [(ngModel)]="user.role" name="role" required>
+      <option *ngFor="let role of roles" [value]="role">{{ role }}</option>
+    </select>
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <div *ngIf="submitted" class="summary">
+    <h3>User Summary</h3>
+    <p>Name: {{ user.name }}</p>
+    <p>Email: {{ user.email }}</p>
+    <p>Role: {{ user.role }}</p>
+    <button (click)="submitted = false">Edit</button>
+  </div>
+</div>
